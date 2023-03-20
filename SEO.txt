@@ -1,0 +1,21 @@
+ 1 - Créer du bon contenu
+     - 400 mots par page minimum.
+     - Garder un contenu à jour.
+     - Ne pas répéter toujours les mêmes choses.
+     - Ne pas faire une page d'intro avant le site.
+     - Pas de lien "cliquez ici" ou "en savoir plus". Précisez contenu du lien.
+     - Penser à être local (préciser ville, quartier, région). Le robot prévilégie les choses locales. Mettre .fr si votre site n'est déstiné qu'à la France.
+
+ 2 - HTML "seo frendly"
+     - Voir HTML Helium
+     - Open Graph: https://ogp.me/
+     - Tester Open Graph: https://cards-dev.txitter.com/validator
+
+ 3 - Site rapide (performant)
+     - Le robot teste le temps de chargement.
+     - Il faut que le JS soit lu en dernier.
+     - Il faut faire apparaitre le plus vite possible une couleur de fond.
+     - Il faut priviléglier les images depuis le CSS et non pas la balise "IMG".
+
+Tester son SEO: plugin "lighthouse".
+Doc SEO Goole: https://developers.google.com/search/docs/fundamentals/seo-starter-guide?hl=fr
